@@ -1,0 +1,100 @@
+Context
+Sex Offender work and home locations, created as part of the DC Geographic Information System (DC GIS) for the D.C. Office of the Chief Technology Officer (OCTO) and participating D.C. government agencies. If users want to obtain more information about sex offenders, they should go to the Sex Offender Mapping Application (here) and download the “More Details” PDF. A database provided by the Court Services and Offender Supervision Agency identified sex offender registry providing location at the block level. https://www.csosa.gov/.
+
+File information
+the data set is CSV file
+
+Content
+Column Features
+This data contain
+
+1.ADDDATE
+2.ALIASES
+3.BIRTHDATE
+4.Date or Time
+5.BLOCKX 6.BLOCKY
+7.BLOCKNAME
+8.DCSLASTMOD_DTM
+9.DISTRICT
+10.EYECOLOR
+11.FIRSTNAME
+12.HAIRCOLOR
+13.HEIGHTNUM
+14.LASTNAME
+15.MARKINGS
+16.MAXCLASSIFICATION
+17.OBJECTID
+18.Unique ID
+19.PSA
+20.QUADRANT
+21.REGISTRATIONDATE
+22.SEXOFFENDERCODE
+23.Shape
+24.TYPE
+25.WEIGHTNUM
+26.ZIP
+
+additional info
+The Sex Offender Registry database provides information on Class A and Class B sex offenders only. If you would like to see a complete list of all Class A, B, and C Offenders, you must go, in person, to one of the MPDC Registry Book locations. For a complete listing of locations, click here. Descriptions of the different Offender Classes are listed below.
+
+Class A
+Class A Sex Offenders have been convicted of, or found not guilty by reason of insanity of the following sex offenses:
+
+First degree sexual abuse
+Second degree sexual abuse
+Forcible rape
+First degree child sexual abuse of a child under 12 years of age
+Carnal knowledge of a child under 12 years of age
+Murder or manslaughter committed before, during or after engaging or attempting to engage in a sexual act, sexual contact or rape
+Forcible sodomy
+Sodomy committed against a child under 12
+Assault with the intent to commit any of the aforementioned act
+Attempting to commit any of the aforementioned Acts
+Conspiring to commit any of the aforementioned Acts
+Two separate convictions for registration offenses
+A conviction for committing registration offenses against two or more victims
+Class B
+Class B Sex Offenders have been convicted of, or found not guilty by reason of insanity of the following sex offenses against a minor, that is, a person under the age of 18:
+
+Third degree sex abuse
+Fourth degree sex abuse
+Misdemeanor sex abuse
+First degree child sexual abuse
+Second degree child sex abuse
+Carnal knowledge
+Sodomy against a minor
+Indecent acts on a child
+Enticing a child
+Lewd, indecent or obscene acts
+Sexual performance using a minor
+Incest
+Obscenity
+Prostitution
+Pandering
+Assault (unwanted sexual touching)
+Threatening to commit a sexual offense
+Kidnapping
+First or second degree burglary with intent to commit a sexual offense
+Assault with intent to commit any of the above offenses
+Attempting to commit any of the above offenses
+Conspiracy to commit any of the above offenses
+Any offense against a minor for which the offender agreed in a plea agreement to be subject to Sex Offender Registration
+Conviction in another jurisdiction of a similar criminal offense
+First or second degree sexual abuse against a ward or resident of a hospital, treatment facility or other institution
+First or second degree sexual abuse of a patient or client
+Class C
+C Classification will be given to persons convicted of the following offenses against a person 18 years of age or older:
+
+Third or fourth degree sexual abuse
+First or second degree burglary with the intent to commit a sexual offense
+Kidnapping with the intent to commit a sexual offense
+Threatening to commit a sex offense or assault with the intent to commit any of the above criminal offenses
+Attempting to commit any of the above criminal offense
+Conspiracy to commit any of the above criminal offenses
+Any offense for which the offender agreed in a plea agreement to be subject to Sex Offender Registration
+Conviction in another jurisdiction of a similar offense
+
+In accordance with enactment of the Sex Offender Registration Act of 1999, this information is being provided to the community. Unlawful use of this information to threaten, intimidate, harass, or injure a registered sex offender is prohibited and will be prosecuted to the full extent of the law.
+
+Acknowledgements
+This data is in the public domain at opendata .dc.gov.
