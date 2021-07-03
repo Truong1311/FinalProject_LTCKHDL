@@ -1,0 +1,65 @@
+- X,Y : component of shapefile.
+- OBJECTID: unique ID of offender.
+- BLOCK_X, BLOCK_Y:
+- DCS_LAST_MOD_DTM: date of last update on offender.
+- SEXOFFENDERCODE: code.
+- ADDDATE: date.
+- LASTNAME: surname.
+- FIRSTNAME: name.
+- ALIASES: nick names.
+- MAXCLASSIFICATION: classification of offender.
+    + Class A: Class A Sex Offenders have been convicted of, or found not guilty by reason of insanity of the following sex offenses:
+        + First degree sexual abuse
+        + Second degree sexual abuse
+        + Forcible rape
+        + First degree child sexual abuse of a child under 12 years of age
+        + Carnal knowledge of a child under 12 years of age
+        + Murder or manslaughter committed before, during or after engaging or attempting to engage in a sexual act, sexual contact or rape
+        + Forcible sodomy
+        + Sodomy committed against a child under 12
+        + Assault with the intent to commit any of the aforementioned act
+        + Attempting to commit any of the aforementioned Acts
+        + Conspiring to commit any of the aforementioned Acts
+        + Two separate convictions for registration offenses
+        + A conviction for committing registration offenses against two or more victims
+    + Class B: Class B Sex Offenders have been convicted of, or found not guilty by reason of insanity of the following sex offenses against a minor, that is, a person under the age of 18:
+        + Third degree sex abuse
+        + Fourth degree sex abuse
+        + Misdemeanor sex abuse
+        + First degree child sexual abuse
+        + Second degree child sex abuse
+        + Carnal knowledge
+        + Sodomy against a minor
+        + Indecent acts on a child
+        + Enticing a child
+        + Lewd, indecent or obscene acts
+        + Sexual performance using a minor
+        + Incest
+        + Obscenity
+        + Prostitution
+        + Pandering
+        + Assault (unwanted sexual touching)
+        + Threatening to commit a sexual offense
+        + Kidnapping
+        + First or second degree burglary with intent to commit a sexual offense
+        + Assault with intent to commit any of the above offenses
+        + Attempting to commit any of the above offenses
+        + Conspiracy to commit any of the above offenses
+        + Any offense against a minor for which the offender agreed in a plea agreement to be subject to Sex Offender Registration
+        + Conviction in another jurisdiction of a similar criminal offense
+        + First or second degree sexual abuse against a ward or resident of a hospital, treatment facility or other institution
+        + First or second degree sexual abuse of a patient or client
+        
+- BIRTHDATE: date of birth.
+- HEIGHTNUM: height of offender.
+- WEIGHTNUM: weight of offender.
+- EYECOLOR: colour of offender's eyes.
+- HAIRCOLOR: colour of offender's hair.
+- MARKINGS: unique identifiers.
+- REGISTRATIONDATE: Date of registration.
+- TYPE: Address location.
+- DISTRICT: There are seven police districts in Washington, DC.
+- PSA: public safety announcement Number.
+- BLOCKNAME: Address.
+- QUADRANT: Washington, D.C., is administratively divided into geographical quadrants.
+- ZIP: area ZIP code
